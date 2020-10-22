@@ -28,8 +28,8 @@ const config = {
     devServer: {
         open: true,
         port: 3000,
-        publicPath: '{{DECKDECKGO_BASE_HREF}}',
-        openPage: 'http://localhost:3000{{DECKDECKGO_BASE_HREF}}'
+        publicPath: '/mascarigiovanni/presentation-oct-23-2020-01-02-53/',
+        openPage: 'http://localhost:3000/mascarigiovanni/presentation-oct-23-2020-01-02-53/'
     }
 };
 
