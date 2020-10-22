@@ -1,6 +1,6 @@
-# {{DECKDECKGO_TITLE}}
+# Presentation Oct 23 2020 01-02-53
 
-{{DECKDECKGO_DESCRIPTION}} 
+ 
 
 ## Table of contents
 
@@ -11,15 +11,15 @@
 
 ## Slides
 
-🔗 [https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}}](https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}})
+🔗 [https://beta.deckdeckgo.io/mascarigiovanni/presentation-oct-23-2020-01-02-53/](https://beta.deckdeckgo.io/mascarigiovanni/presentation-oct-23-2020-01-02-53/)
 
 ## Usage
 
 💻 To get started locally with this presentation, clone this repo and install its dependencies.
 
 ```
-git clone {{DECKDECKGO_GITHUB_REPO_URL}}
-cd {{DECKDECKGO_GITHUB_REPO_NAME}}
+git clone https://github.com/gmasca/presentation-oct-23-2020-01-02-53
+cd presentation-oct-23-2020-01-02-53
 npm install
 ```
 
